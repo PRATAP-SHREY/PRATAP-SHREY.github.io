@@ -25,11 +25,11 @@ body .container .form .y {
   font-size: 25px;
   padding-left: 30px;
 }
-body .container .form #x {
+body .container .form .x {
   display: flex;
   justify-content: center;
 }
-body .container .form #x .sub {
+body .container .form .x .sub {
   width: 200px;
 }
 body .container .form input {

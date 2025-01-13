@@ -15,10 +15,11 @@
         <div class="form">
             <form action="https://www.google.com/search" method="get">
                 <input class="y" type="text" name="q" placeholder="  Query-">
+                <input class="sub" id="Lucky" type="text" style="display: none;">
                 <br>
-                <div id="x">
+                <div class="x">
                     <input class="sub" type="submit" value="Google Search">
-                    <input class="sub" type="submit" value="I'm Feeling Lucky">
+                        <input onclick="document.getElementById('Lucky').name='btnI';" class="sub" type="submit" value="I'm Feeling Lucky">
                 </div>
             </form>
         </div>    
