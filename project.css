@@ -39,8 +39,6 @@ body .container .form .x .sub {
 }
 @media (max-width: 600px) {
   body .container .form .x .sub {
-    background-color: rgb(170, 222, 135);
-    color: rgb(42, 147, 165);
     width: 100px;
     font-size: 10px;
   }
@@ -64,8 +62,6 @@ body .container .form input {
 }
 @media (max-width: 600px) {
   body .container .form input {
-    background-color: rgb(170, 222, 135);
-    color: rgb(42, 147, 165);
     width: 300px;
   }
 }
@@ -92,8 +88,6 @@ body .container .link {
 }
 @media (max-width: 600px) {
   body .container .link {
-    background-color: rgb(170, 222, 135);
-    color: rgb(42, 147, 165);
     width: 50px;
     font-size: 8px;
   }
